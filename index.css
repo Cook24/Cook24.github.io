@@ -1,0 +1,83 @@
+#banner{
+    background-image: url(https://content.codecademy.com/courses/freelance-1/unit-2/pattern.jpeg?_gl=1*7qgu5v*_ga*MTgyMDEyMTQzOS4xNjUxNzc1MTA5*_ga_3LRZM6TM9L*MTY1MjI4NjM0Mi4xMi4xLjE2NTIyODkyODEuNTg.);
+}
+
+.banner{
+    font-family: Helvetica;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+}
+
+.brushes{
+    background-color: mediumspringgreen;
+    width: 100%;
+}
+
+#brushes{
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+
+.hacksaw{
+    font-family: Helvetica;
+}
+
+.hacksaw_p{
+    font-family: Helvetica;
+    color: black;
+    text-align: left;
+}
+
+#price{
+    font-family: Helvetica;
+    font-weight: bold;
+    color: blue;
+}
+
+.frames{
+    background-color: lightcoral;
+    width: 100%;
+}
+
+#frames{
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+
+.frame{
+    font-family: Helvetica;
+}
+
+.frame_p{
+    font-family: Helvetica;
+    color: black;
+    text-align: left;
+}
+
+.paint{
+    background-color: skyblue;
+    width: 100%;
+}
+
+#paint{
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+
+.finnish{
+    font-family: Helvetica;
+}
+
+.finnish_p{
+    font-family: Helvetica;
+    color: black;
+    text-align: left;
+}
